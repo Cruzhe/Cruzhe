@@ -1,4 +1,4 @@
-# Good day, I'm William 👋
+# William Yavorskiy
 
 ### Computer Systems Technician Student @ Seneca Polytechnic
 I focus on IT infrastructure, Linux administration, and physical hardware deployment.
