@@ -13,6 +13,6 @@ I focus on IT infrastructure, Linux administration, and physical hardware deploy
 ---
 
 ### 📂 Academic Lab Portfolio
-* 🐧 [intro-to-linux](https://github.com/Cruzhe/intro-to-linux)
-* 💻 [Intro to Computers & Networks Labs](./intro-to-computers-and-networks)
-* 🖥️ [Intro to Microsoft Services Labs](./intro-to-microsoft-services)
+* 🐧 [Intro-to-Linux](https://github.com/Cruzhe/intro-to-linux)
+* 💻 [Intro-to-Computers-&-Networks](https://github.com/Cruzhe/intro-to-computers-and-networks)
+* 🖥️ [Intro-to-Microsoft-Services](https://github.com/Cruzhe/intro-to-microsoft-services) 
